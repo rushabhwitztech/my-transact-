@@ -1,0 +1,55 @@
+body {
+  padding: 0;
+  margin: 0;
+  background-color: #a8dadc;
+}
+.custom {
+  background-color: #1d3557;
+  color: white;
+}
+.resize {
+  color: aliceblue;
+}
+.top {
+  background-color: #a8dadc;
+}
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
+}
+.tab {
+  background-color: #1d3557;
+  color: aliceblue;
+  height: 40px;
+}
+.daily {
+  text-align: center;
+}
+.main {
+  height: 100px;
+}
+.thead {
+  background: linear-gradient(0deg, #457b9d, #457b9d),
+    linear-gradient(0deg, #a9a9a9, #a9a9a9);
+}
+.table {
+  align-items: center;
+}
+.nav-link {
+  color: aliceblue;
+}
+:hover.nav-link {
+  color: aquamarine;
+}
+.bg {
+  background-color: #1d3557;
+  color: aliceblue;
+}
+.border {
+  border-top-right-radius: 50px 50px;
+  border-bottom-right-radius: 50px 50px;
+}
+.user {
+  width: 50px;
+  height: 50px;
+}
